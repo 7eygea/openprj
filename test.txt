@@ -21,3 +21,4 @@ B4 change from B4 1
 xxx
 
 version 1.0
+version 2.0
